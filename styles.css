@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-image: url(./images/delfina-cocciardi-NDPBK-d-03M-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+    padding: 2rem;
+    
+
+}
+.container{
+    display: flex;
+    color: white;
+    justify-content: space-between ;
+}
+
+.best{
+    color: chocolate;
+}
+
+.text{
+    padding: 20px;
+}
+.beast{
+    color: black;
+}
+
+.circle{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.innercircle{
+    color: black;
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;   
+}
+
+ul{
+    color: white;
+    list-style: none;
+    padding: 10px;
+}
+
+.saturday{
+    width: 100vh;
+    height: 100px;
+    background-color: rgba(139, 0, 139, 0.76);
+    color: white;
+}
+
+footer{
+    height: 300px;
+    width: 100vh;
+    background-color: chocolate;
+    display: flex;
+}
+
+.game{
+    color: white;
+    padding: 20px;
+}
+
+.bestt{
+    color: chocolate;
+    padding: 10px;
+    margin-left: 5px;
+}
+.time>ul{
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.tall>h4{
+    color: white;
+    padding-top: 20px;
+}
+.pitch{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.tall>ul{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
